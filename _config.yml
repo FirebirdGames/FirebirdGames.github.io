@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Firebird Games Unity Assets
+description: Documentation for Unity assets published by Firebird Games LLC.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-leap-day
