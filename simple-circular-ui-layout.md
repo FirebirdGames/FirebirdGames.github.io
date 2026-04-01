@@ -15,9 +15,11 @@ Simple Circular UI Layout is an easy-to-use component for arranging UI objects a
 
 ### CircularLayoutGroup Settings
 
-* “Child Alignment" : Determines the center of the circle within the layout RectTransform.
-* “Child Pivot" : Determines the point on the child objects that will be used to arrange them around the circle. 
 * "Circle Size Mode" : The radius of the circle is determined by the size of the layout RectTransform. Change this setting to force the radius to be equal to the Height, Width, or whichever is bigger.
+* “Child Alignment" : Determines the center of the circle within the layout RectTransform.
+* “Child Pivot" : Determines the point on the child objects that will be used to arrange them around the circle.
+* “Child Facing Direction” : By default, child objects will be rotated so that they are facing outward along the circle. Change this setting to InwardAlongNormal to make them face towards the center of the circle instead, or change it to AlwaysUpright to keep the child rotation 0 regardless of its position on the circle.
+* “Child Facing Fixed Angle” : If “Child Facing Direction” is set to FixedAngle, this value controls the angle all child objects will be rotated to regardless of their position along the circle.
 * “Reverse Arrangement” : By default, child objects will be arranged in ascending child index order. Set this to True to arrange them in descending order instead.
 * “Counter-Clockwise” : By default, child objects will be arranged counter-clockwise from “Angle Start”. Set this to False to arrange child object clockwise instead.
 * "Angle Start" : The angle at which to start aligning child objects. (Ex. 90 = Straight up)
