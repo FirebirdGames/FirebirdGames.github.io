@@ -1,5 +1,10 @@
-# All Asset Packages
+# Firebird Games - Unity Assets
 
-Click on asset package below to view its documentation:
+## Contact
+
+Email: FirebirdGamesLLC@gmail.com
+Discord: https://discord.gg/53MetJPvp7
+
+## All Assets
 
 [Simple Circular UI Layout](./simple-circular-ui-layout.html)
