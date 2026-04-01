@@ -1,10 +1,11 @@
-# Firebird Games - Unity Assets
+# Firebird Games
 
-## Contact
+### Contact
 
 Email: FirebirdGamesLLC@gmail.com
+
 Discord: https://discord.gg/53MetJPvp7
 
-## All Assets
+### All Unity Assets
 
 [Simple Circular UI Layout](./simple-circular-ui-layout.html)
